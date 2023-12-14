@@ -1,3 +1,5 @@
+This repository contains a minimum reproducible example of [this StackOverflow question](https://stackoverflow.com/questions/77661986).
+
 Instructions on Ubuntu:
 
 1. Create Conda environment: `conda env create --name opencv_pybind11_mre --file=environment.yml`
